@@ -1,6 +1,6 @@
 # Wine Classification with Machine Learning
 
-![wine-glass](https://cdn.discordapp.com/attachments/837027141953650688/1165382778964152380/Pngtreered_wine_wine_glass_photography_6490346.png?ex=6546a64a&is=6534314a&hm=45f9c4609b2a5023c8ccf2cf9608be9e2df7ca55c133cd30ee605314c0841942&)
+![wine-glass](https://cdn.discordapp.com/attachments/837027141953650688/1165383475105370193/toppng.com-bouteille-et-verre-de-vin-rouge-png-glass-red-wine-580x470.png?ex=6546a6f0&is=653431f0&hm=3766695b0db2fb5d4de4fc54cbc107d09c9457762e78c25a9867eaec987182ac&)
 
 This GitHub repository contains a machine learning project focused on classifying wines into three different categories, labeled as 1, 2, and 3. The project utilizes various machine learning techniques to analyze and classify wine samples based on their characteristics.
 
