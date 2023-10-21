@@ -1,0 +1,11 @@
+Correlations
+https://datascience.stackexchange.com/questions/24452/in-supervised-learning-why-is-it-bad-to-have-correlated-features?rq=1
+
+Overcoming Issues with Small Data Sets when Building Machine Learning Models
+https://www.youtube.com/watch?v=Ly3ogCE-GuI&t=1638s
+
+Iloc
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
+
+Small datasets problem
+https://www.kaggle.com/code/rafjaa/dealing-with-very-small-datasets
