@@ -3,7 +3,7 @@
 ![wine-glass](https://cdn.discordapp.com/attachments/837027141953650688/1165383475105370193/toppng.com-bouteille-et-verre-de-vin-rouge-png-glass-red-wine-580x470.png?ex=6546a6f0&is=653431f0&hm=3766695b0db2fb5d4de4fc54cbc107d09c9457762e78c25a9867eaec987182ac&)
 
 This project leverages the `wine.csv` dataset for two analytical tasks:
-1. **Wine Quality Prediction (Classification)**: Utilizing various chemical properties, including Malic Acid, to predict the wine class.
+1. **Wine Quality Prediction (Classification)**: Utilizing various chemical properties to predict the wine class.
 2. **Malic Acid Prediction (Regression)**: Estimating the malic acid content in wine based on other chemical characteristics.
 
 ## Dataset Overview
